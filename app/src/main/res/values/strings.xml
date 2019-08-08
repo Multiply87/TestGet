@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestGet</string>
+    <string name="login">Введите логин</string>
+    <string name="password">Введите пароль</string>
+    <string name="search">Войти</string>
+    <string name="result">Тут будет результат</string>
+    <string name="url">https://script.google.com/macros/s/AKfycbxf5uQqkmhUobuzSo6cNZrFBWkqyq_bcpDtBmjTJvtr9fy8ZA/exec</string>
+
+    <string name="error_message">Ошибка! Попробуйте ещё раз.</string>
+
+</resources>
